@@ -1,0 +1,6 @@
+echo backend/env/ > .gitignore
+echo env/ >> .gitignore
+echo venv/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
+echo .ipynb_checkpoints/ >> .gitignore
