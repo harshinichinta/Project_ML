@@ -1,0 +1,8 @@
+One-to-one: http://localhost:8501
+One-to-many: http://localhost:8502
+Many-to-one: http://localhost:8503                  "Win a free prize now" → likely Spam
+"Hi, are you coming to class today?" → likely HAM
+Many-to-many: http://localhost:8504
+I also restarted the many-to-one app with the same runtime logic on:
+
+Many-to-one: http://localhost:8505
